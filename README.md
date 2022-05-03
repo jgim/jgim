@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/42seoul-000000?style=flat&logo=42&logoColor=white"/>
+<img src="https://img.shields.io/badge/seoul-000000?style=flat&logo=42&logoColor=white"/>
