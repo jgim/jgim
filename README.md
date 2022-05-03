@@ -37,7 +37,7 @@ Here are some ideas to get you started:
      src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 
-blog : <a href=
+blog🍏: <a href=
 "https://burning-quokka.tistory.com">burning-quokka</a>
 
 ![jgim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgim&show_icons=true&theme=vue)
