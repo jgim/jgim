@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 <img 
      src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
+
+
+![jgim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgim&show_icons=true&theme=vue)
