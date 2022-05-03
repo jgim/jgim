@@ -38,7 +38,7 @@ Here are some ideas to get you started:
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 
 <a href=
-"https://burning-quokka.tistory.com"></a>
+"https://burning-quokka.tistory.com">burning-quokka blog</a>
 
 ![jgim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgim&show_icons=true&theme=vue)
 
