@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img 
-     src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=000000"/>
+
 <img 
      src="https://img.shields.io/badge/seoul-000000?style=flat&logo=42&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
@@ -24,4 +23,7 @@ Here are some ideas to get you started:
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 <img 
      src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"
+     style="height : auto; margin-left : 15px; margin-right : 15px;"/>
+<img 
+     src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
