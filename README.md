@@ -25,5 +25,5 @@ Here are some ideas to get you started:
      src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 <img 
-     src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"
+     src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
