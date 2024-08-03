@@ -37,9 +37,5 @@ Here are some ideas to get you started:
      src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 
-blog🍏: <a href=
-"https://burning-quokka.tistory.com">burning-quokka</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgim&layout=compact&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
