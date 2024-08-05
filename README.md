@@ -37,5 +37,4 @@ Here are some ideas to get you started:
      src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgim&layout=compact&theme=vue&langs_count=8)
-
+[![jgim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgim)]
